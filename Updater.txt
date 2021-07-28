@@ -1,3 +1,7 @@
 <Version: 1.30.1>
 /data/Actors.json https://raw.githubusercontent.com/YagyuChan/FFLCNotesBeta/main/Actors.json
 <End of Version>
+
+<Version: 1.30.2>
+/data/Actors.json https://raw.githubusercontent.com/YagyuChan/FFLCNotesBeta/main/Actors.json
+<End of Version>
