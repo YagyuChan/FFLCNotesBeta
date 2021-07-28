@@ -3,5 +3,5 @@
 <End of Version>
 
 <Version: 1.31>
-/data/Actors.json https://raw.githubusercontent.com/YagyuChan/FFLCNotesBeta/main/Actors.json
+/img/pictures/tutorial 1.png https://github.com/YagyuChan/FFLCNotesBeta/raw/main/tutorial%201.png
 <End of Version>
